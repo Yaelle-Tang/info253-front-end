@@ -1,3 +1,6 @@
 [submodule "in-person-project-1"]
 	path = in-person-project-1
 	url = https://github.com/Yaelle-Tang/in-person-project-1.git
+[submodule "info253-front-end-lab2"]
+	path = info253-front-end-lab2
+	url = https://github.com/Yaelle-Tang/info253-front-end-lab2
