@@ -4,3 +4,12 @@
 [submodule "info253-front-end-lab2"]
 	path = info253-front-end-lab2
 	url = https://github.com/Yaelle-Tang/info253-front-end-lab2
+[submodule "assignment-1-Yaelle-Tang"]
+	path = assignment-1-Yaelle-Tang
+	url = https://github.com/UCB-INFO-FRONTEND-WEBARCH/assignment-1-Yaelle-Tang.git
+[submodule "in-person-project-2-Yaelle-Tang"]
+	path = in-person-project-2-Yaelle-Tang
+	url = https://github.com/Yaelle-Tang/in-person-project-2-Yaelle-Tang.git
+[submodule "in-person-project-3-Yaelle-Tang"]
+	path = in-person-project-3-Yaelle-Tang
+	url = https://github.com/Yaelle-Tang/in-person-project-3-Yaelle-Tang.git
